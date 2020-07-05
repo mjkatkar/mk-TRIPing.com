@@ -1,0 +1,64 @@
+body
+{
+    background-image: url("Backgrounds/home.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1
+{
+    text-align: left;
+    color:darkgoldenrod;
+    background-color:black;
+}
+
+.DIV
+{
+    text-align:center;
+    font-size: 50 px;
+    position: absolute;
+    bottom: 0;  
+    left: 30%;
+}
+td{
+    padding: 12px;
+    align-items:center;
+    color: gold;
+     background-color: black;
+    border: 1px solid white;
+}
+a{
+    padding: 20px;
+    color:gold;
+    font-size: 25 px;
+    text-decoration: none;
+}
+.tab
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid red;
+}
+.div
+{
+    color: gold;
+    position: relative;
+    float: right;
+    border: 1px solid white;
+    background-color: black;
+    padding: 12px;
+}
+a:hover
+{
+    background-color: silver;
+    color: red;
+    border: 1px solid white;
+}
+p
+{
+    color: white;
+    background-color: black;
+}
+
+
